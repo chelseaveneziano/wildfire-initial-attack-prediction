@@ -24,7 +24,7 @@ This project uses 183,622 California wildfires (2000–2020) from the public FPA
 
 1. Install Python 3 with pandas, numpy, matplotlib, seaborn, and scikit-learn (Anaconda includes all of them).
 2. Create a `data/` folder next to the notebook.
-3. Open `wildfire_analysis.ipynb` and run all cells from top to bottom.
+3. Open `wildfire-analysis.ipynb` and run all cells from top to bottom.
    - The notebook downloads the 29 yearly data files (about 5 GB) from Zenodo automatically.
    - All models use `random_state=42`, so results are reproducible.
 
